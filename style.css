@@ -1,0 +1,22 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: darkslategray;
+}
+div{
+    display: flex;
+    height: 100%;
+    justify-content:center;
+    align-items: center;
+}
+#atomBtn{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 10px;
+    padding: 30px 40px;
+    margin: auto;
+    border: 1px solid green;
+}
